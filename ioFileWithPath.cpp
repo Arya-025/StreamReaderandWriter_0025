@@ -10,7 +10,7 @@ int main()
  
     cout << "masukkan nama file : ";
     cin >> namaFile;
-
+ 
     ofstream outfile;
 
     outfile.open("namaFile + .txt");
