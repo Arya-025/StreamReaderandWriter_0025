@@ -18,4 +18,10 @@ int main() {
         if (Baris =="q") break;
         outfile << Baris << endl;
     }
+
+    outfile.close();
+
+    ifstream infile;
+
+    infile.open("contoh.txt");
 }
