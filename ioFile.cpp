@@ -4,4 +4,10 @@
 using namespace std;
 
 
+int main() {
+    string Baris;
 
+    ofstream outfile;
+
+    
+}
